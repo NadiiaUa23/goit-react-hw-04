@@ -1,9 +1,9 @@
- const ImageGallery = () => {
-    return(
-        <div>
-            image
-        </div>
-    );
- }
+//  const ImageGallery = () => {
+//     return(
+//         <div>
+//             image
+//         </div>
+//     );
+//  }
 
- export default ImageGallery;
+//  export default ImageGallery;
